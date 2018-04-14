@@ -1,2 +1,3 @@
 # Student-Management-Portal-
-Portal to add, delete and update student info.
+
+This is a portal through which you can add new students, edit/update and delete them also.
