@@ -1,0 +1,53 @@
+form{
+    margin: 20px 0;
+}
+form input, button{
+    padding: 5px;
+}
+table{
+    width: 100%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+table, th, td{
+    border: 1px solid #cdcdcd;
+}
+table th, table td{
+    padding: 10px;
+    text-align: left;
+}
+input[type=text] {
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+input[type=text]:focus {
+    border: 3px solid #555;
+}
+input[type=number] {
+    box-sizing: border-box;
+    border: 3px solid #ccc;
+    -webkit-transition: 0.5s;
+    transition: 0.5s;
+    outline: none;
+}
+input[type=number]:focus {
+    border: 3px solid #555;
+}
+  
+  .add{
+    color:aqua;
+    background-color: azure;
+    border-color: cyan;
+    cursor: pointer;
+    border-radius: 7px;
+    padding: 7px 18px;
+    box-shadow: 1px 2px;
+    
+}
+.add:hover{
+    background-color: aqua;
+    color: azure;
+}
